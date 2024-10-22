@@ -61,6 +61,7 @@ Document my LeetCode solution with comprehensive chinese comments and incorporat
 ![medium](./icon/medium.png) Problem 1689 Partitioning Into Minimum Number Of Deci-Binary Numbers: [C++](./c++/1689_PartitioningIntoMinimumNumberOfDeciBinaryNumbers.cpp)  
 ![easy](./icon/easy.png) Problem 1821 Find Customers With Positive Revenue this Year: [MySQL](./mysql/1821_FindCustomersWithPositiveRevenueThisYear.sql)  
 ![hard](./icon/hard.png) Problem 2276 Count Integers in Intervals: [Python](./python/2276_count_integers_in_intervals.py)  
+![medium](./icon/medium.png) Problem 2298 Tasks Count in the Weekend: [MySQL](./mysql/2298_TasksCountInTheWeekend.sql)  
 ![easy](./icon/easy.png) Problem 2331 Evaluate Boolean Binary Tree: [Python](./python/2331_evaluate_boolean_binary_tree.py)  
 ![medium](./icon/medium.png) Problem 2340 Minimum Adjacent Swaps to Make a Valid Array: [Python](./python/2340_minimum_adjacent_swaps_to_make_a_valid_array.py)  
 ![medium](./icon/medium.png) Problem 2487 Remove Nodes From Linked List: [Python](./python/2487_remove_nodes_from_linked_list.py)  

@@ -2,7 +2,6 @@
 -- https://leetcode.com/problems/find-top-performing-driver/
 
 -- Write your MySQL query statement below
-# Write your MySQL query statement below
 SELECT
     VehicleOrder.fuel_type,
     VehicleOrder.driver_id,

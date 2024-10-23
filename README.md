@@ -40,6 +40,7 @@ Document my LeetCode solution with comprehensive chinese comments and incorporat
 ![medium](./icon/medium.png) Problem 184 Department Highest Salary: [MySQL](./mysql/0184_DepartmentHighestSalary.sql)  
 ![hard](./icon/hard.png) Problem 185 Department Top Three Salaries: [MySQL](./mysql/0185_DepartmentTopThreeSalaries.sql) | [PostgreSQL](./postgresql/0185_DepartmentTopThreeSalaries.sql)  
 ![medium](./icon/medium.png) Problem 237 Delete Node in a Linked List: [C++](./c++/0237_DeleteNodeInALinkedList.cpp)  
+![easy](./icon/easy.png) Problem 252 Meeting Rooms: [Python](./python/0252_meeting_rooms.py)  
 ![hard](./icon/hard.png) Problem 262 Trips and Users: [MySQL](./mysql/0262_TripsAndUsers.sql)  
 ![easy](./icon/easy.png) Problem 404 Sum of Left Leaves: [Python](./python/0404_sum_of_left_leaves.py)  
 ![medium](./icon/medium.png) Problem 565 Array Nesting: [C](./c/0565_ArrayNesting.c) | [C++](./c++/0565_ArrayNesting.cpp) | [Go](./go/0565_array_nesting.go) | [Java](./java/0565_ArrayNesting.java)  

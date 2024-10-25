@@ -106,4 +106,4 @@ Document my LeetCode solution with comprehensive chinese comments and incorporat
 ![medium](./icon/medium.png) Problem 3293 Calculate Product Final Price: [MySQL](./mysql/3293_CalculateProductFinalPrice.sql)  
 ![easy](./icon/easy.png) Problem 3294 Convert Doubly Linked List to Array II: [C++](./c++/3294_ConvertDoublyLinkedListToArrayII.cpp) | [Python](./python/3294_convert_doubly_linked_list_to_array_ii.py)  
 ![medium](./icon/medium.png) Problem 3308 Find Top Performing Driver: [MySQL](./mysql/3308_FindTopPerformingDriver.sql)  
-![medium](./icon/medium.png) Problem 3324 Find the Sequence of Strings Appeared on the Screen: [Python](./python/3324_find_the_sequence_of_strings_appeared_on_the_screen.py)  
+![medium](./icon/medium.png) Problem 3324 Find the Sequence of Strings Appeared on the Screen: [Python](./python/3324_find_the_sequence_of_strings_appeared_on_the_screen.py) | [Go](./go/3324_find_the_sequence_of_strings_appeared_on_the_screen.go)  

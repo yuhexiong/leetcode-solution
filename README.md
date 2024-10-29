@@ -100,7 +100,7 @@ Document my LeetCode solution with comprehensive chinese comments and incorporat
 ![medium](./icon/medium.png) Problem 3227 Vowels Game in a String: [C++](./c++/3227_VowelsGameInAString.cpp) | [Go](./go/3227_vowels_game_in_a_string.go)  
 ![easy](./icon/easy.png) Problem 3248 Snake in Matrix: [Python](./python/3248_snake_in_matrix.py)  
 ![medium](./icon/medium.png) Problem 3254 Find the Power of K-Size Subarrays I: [Python](./python/3254_find_the_power_of_k-size_subarrays_i.py)  
-![medium](./icon/medium.png) Problem 3259 Maximum Energy Boost From Two Drinks: [Python](./python/3259_maximum_energy_boost_from_two_drinks.py)  
+![medium](./icon/medium.png) Problem 3259 Maximum Energy Boost From Two Drinks: [Python](./python/3259_maximum_energy_boost_from_two_drinks.py) | [Go](./go/3259_maximum_energy_boost_from_two_drinks.go)  
 ![easy](./icon/easy.png) Problem 3263 Convert Doubly Linked List to Array I: [C++](./c++/3263_ConvertDoublyLinkedListToArrayI.cpp) | [Python](./python/3263_convert_doubly_linked_list_to_array_i.py)  
 ![medium](./icon/medium.png) Problem 3271 Hash Divided String: [C++](./c++/3271_HashDividedString.cpp) | [Python](./python/3271_hash_divided_string.py)  
 ![easy](./icon/easy.png) Problem 3289 The Two Sneaky Numbers of Digitville: [Python](./python/3289_the_two_sneaky_numbers_of_digitville.py)  

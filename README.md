@@ -78,6 +78,7 @@ Document my LeetCode solution with comprehensive chinese comments and incorporat
 ![easy](./icon/easy.png) Problem 2796 Repeat String: [TypeScript](./typescript/2796_RepeatString.ts)  
 ![easy](./icon/easy.png) Problem 2803 Factorial Generator: [TypeScript](./typescript/2803_FactorialGenerator.ts)  
 ![easy](./icon/easy.png) Problem 2828 Check if a String Is an Acronym of Word: [C++](./c++/2828_CheckIfAStringIsAnAcronymOfWords.cpp)  
+![easy](./icon/easy.png) Problem 2837 Total Traveled Distance: [MySQL](./mysql/2837_TotalTraveledDistance.sql)  
 ![easy](./icon/easy.png) Problem 2879 Display the First Three Rows: [Python](./python/2879_display_the_first_three_rows.py)  
 ![easy](./icon/easy.png) Problem 2884 Modify Columns: [Python](./python/2884_modify_columns.py)  
 ![medium](./icon/medium.png) Problem 2895 Minimum Processing Time: [C++](./c++/2895_MinimumProcessingTime.cpp)  

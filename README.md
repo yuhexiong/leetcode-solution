@@ -61,6 +61,7 @@ Document my LeetCode solution with comprehensive chinese comments and incorporat
 ![medium](./icon/medium.png) Problem 1679 Max Number of K-Sum Pairs: [C](./c/1679_MaxNumberOfKSumPairs.c) | [C++](./c++/1679_MaxNumberOfKSumPairs.cpp)  
 ![medium](./icon/medium.png) Problem 1689 Partitioning Into Minimum Number Of Deci-Binary Numbers: [C++](./c++/1689_PartitioningIntoMinimumNumberOfDeciBinaryNumbers.cpp)  
 ![easy](./icon/easy.png) Problem 1821 Find Customers With Positive Revenue this Year: [MySQL](./mysql/1821_FindCustomersWithPositiveRevenueThisYear.sql)  
+![medium](./icon/medium.png) Problem 1874 Minimize Product Sum of Two Arrays: [Python](./python/1874_minimize_product_sum_of_two_arrays.py)  
 ![medium](./icon/medium.png) Problem 2084 Drop Type 1 Orders for Customers With Type 0 Orders: [MySQL](./mysql/2084_DropType1OrdersForCustomersWithType0Orders.sql)  
 ![hard](./icon/hard.png) Problem 2276 Count Integers in Intervals: [Python](./python/2276_count_integers_in_intervals.py)  
 ![medium](./icon/medium.png) Problem 2298 Tasks Count in the Weekend: [MySQL](./mysql/2298_TasksCountInTheWeekend.sql)  

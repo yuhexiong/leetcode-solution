@@ -57,6 +57,7 @@ Document my LeetCode solution with comprehensive chinese comments and incorporat
 ![hard](./icon/hard.png) Problem 1402 Reducing Dishes: [C++](./c++/1402_ReducingDishes.cpp) | [Go](./go/1402_reducing_dishes.go) | [Java](./java/1402_ReducingDishes.java)  
 ![easy](./icon/easy.png) Problem 1422 Maximum Score After Splitting a String: [C++](./c++/1422_MaximumScoreAfterSplittingAString.cpp) | [Python](./python/1422_maximum_score_after_splitting_a_string.py)  
 ![medium](./icon/medium.png) Problem 1468 Calculate Salaries: [MySQL](./mysql/1468_CalculateSalaries.sql)  
+![hard](./icon/hard.png) Problem 1479 Sales by Day of the Week: [MySQL](./mysql/1479_SalesByDayOfTheWeek.sql)  
 ![hard](./icon/hard.png) Problem 1575 Count All Possible Routes: [Python](./python/1575_count_all_possible_routes.py)  
 ![medium](./icon/medium.png) Problem 1679 Max Number of K-Sum Pairs: [C](./c/1679_MaxNumberOfKSumPairs.c) | [C++](./c++/1679_MaxNumberOfKSumPairs.cpp)  
 ![medium](./icon/medium.png) Problem 1689 Partitioning Into Minimum Number Of Deci-Binary Numbers: [C++](./c++/1689_PartitioningIntoMinimumNumberOfDeciBinaryNumbers.cpp)  

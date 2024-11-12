@@ -4,7 +4,7 @@ Document my LeetCode solution with comprehensive chinese comments and incorporat
 
 ## Shortcut To Solutions
 
-![easy](./icon/easy.png) Problem 1 Two Sum: [C](./c/0001_TwoSum.c) | [C++](./c++/0001_TwoSum.cpp) | [Python](./python/0001_two_sum.py) | [Go](./go/0001_two_sum.go) | [TypeScript](./typescript/0001_TwoSum.ts)  
+![easy](./icon/easy.png) Problem 1 Two Sum: [C](./c/0001_TwoSum.c) | [C++](./c++/0001_TwoSum.cpp) | [Python](./python/0001_two_sum.py) | [Go](./go/0001_two_sum.go) | [TypeScript](./typescript/0001_TwoSum.ts) | [JavaScript](./javascript/0001_TwoSum.js)  
 ![medium](./icon/medium.png) Problem 2 Add Two Numbers: [C++](./c++/0002_AddTwoNumbers.cpp) | [Python](./python/0002_add_two_numbers.py) | [Go](./go/0002_add_two_numbers.go)  
 ![medium](./icon/medium.png) Problem 3 Longest Substring Without Repeating Characters: [Python](./python/0003_longest_substring_without_repeating_characters.py)  
 ![hard](./icon/hard.png) Problem 4 Median of Two Sorted Arrays: [Python](./python/0004_median_of_two_sorted_arrays.py)  

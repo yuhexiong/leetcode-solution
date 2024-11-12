@@ -1,7 +1,7 @@
 // Problem 1: Two Sum
 // https://leetcode.com/problems/two-sum/
 
-function twoSum(nums: number[], target: number): number[] {
+var twoSumJs = function(nums, target) {
   // 使用迴圈單層迴圈
   for (let i = 0; i < nums.length; i++) {
     // 如果 希望的值(目標減去當前數值) 在這個 array 中 且 不是同一個位置的值(index 不相同)
@@ -14,4 +14,4 @@ function twoSum(nums: number[], target: number): number[] {
     }
   }
   return [];
-}
+};

@@ -79,6 +79,7 @@ Document my LeetCode solution with comprehensive chinese comments and incorporat
 ![easy](./icon/easy.png) Problem 2723 Add Two Promises: [TypeScript](./typescript/2723_AddTwoPromises.ts) | [JavaScript](./javascript/2723_AddTwoPromises.js)  
 ![easy](./icon/easy.png) Problem 2758 Next Day: [TypeScript](./typescript/2758_NextDay.ts)  
 ![medium](./icon/medium.png) Problem 2782 Number of Unique Categories: [Python](./python/2782_number_of_unique_categories.py)  
+![hard](./icon/hard.png) Problem 2793 Status of Flight Tickets: [MySQL](./mysql/2793_StatusOfFlightTickets.sql)  
 ![easy](./icon/easy.png) Problem 2796 Repeat String: [TypeScript](./typescript/2796_RepeatString.ts)  
 ![easy](./icon/easy.png) Problem 2803 Factorial Generator: [TypeScript](./typescript/2803_FactorialGenerator.ts)  
 ![easy](./icon/easy.png) Problem 2828 Check if a String Is an Acronym of Word: [C++](./c++/2828_CheckIfAStringIsAnAcronymOfWords.cpp)  

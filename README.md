@@ -45,6 +45,7 @@ Document my LeetCode solution with comprehensive chinese comments and incorporat
 ![easy](./icon/easy.png) Problem 404 Sum of Left Leaves: [Python](./python/0404_sum_of_left_leaves.py)  
 ![medium](./icon/medium.png) Problem 565 Array Nesting: [C](./c/0565_ArrayNesting.c) | [C++](./c++/0565_ArrayNesting.cpp) | [Go](./go/0565_array_nesting.go) | [Java](./java/0565_ArrayNesting.java)  
 ![medium](./icon/medium.png) Problem 648 Replace Words: [Python](./python/0648_replace_words.py)  
+![easy](./icon/easy.png) Problem 682 Baseball Game: [C++](./c++/0682_BaseballGame.cpp)  
 ![easy](./icon/easy.png) Problem 771 Jewels and Stones: [Python](./python/0771_jewels_and_stones.py)  
 ![hard](./icon/hard.png) Problem 899 Orderly Queue: [C++](./c++/0899_OrderlyQueue.cpp) | [Go](./go/0899_orderly_queue.go) | [Java](./java/0899_OrderlyQueue.java)  
 ![easy](./icon/easy.png) Problem 938 Range Sum of BST: [Python](./python/0938_range_sum_of_bst.py)  

@@ -84,6 +84,7 @@ Document my LeetCode solution with comprehensive chinese comments and incorporat
 ![medium](./icon/medium.png) Problem 2782 Number of Unique Categories: [Python](./python/2782_number_of_unique_categories.py)  
 ![hard](./icon/hard.png) Problem 2793 Status of Flight Tickets: [MySQL](./mysql/2793_StatusOfFlightTickets.sql)  
 ![easy](./icon/easy.png) Problem 2796 Repeat String: [TypeScript](./typescript/2796_RepeatString.ts)  
+![easy](./icon/easy.png) Problem 2797 Partial Function with Placeholders: [TypeScript](./typescript/2797_PartialFunctionWithPlaceholders.ts)  
 ![easy](./icon/easy.png) Problem 2803 Factorial Generator: [TypeScript](./typescript/2803_FactorialGenerator.ts)  
 ![easy](./icon/easy.png) Problem 2828 Check if a String Is an Acronym of Word: [C++](./c++/2828_CheckIfAStringIsAnAcronymOfWords.cpp)  
 ![easy](./icon/easy.png) Problem 2837 Total Traveled Distance: [MySQL](./mysql/2837_TotalTraveledDistance.sql)  

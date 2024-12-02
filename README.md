@@ -121,3 +121,4 @@ Document my LeetCode solution with comprehensive chinese comments and incorporat
 ![medium](./icon/medium.png) Problem 3338 Second Highest Salary II: [MySQL](./mysql/3338_SecondHighestSalaryII.sql)  
 ![easy](./icon/easy.png) Problem 3340 Check Balanced String: [Go](./go/3340_check_balanced_string.go)  
 ![hard](./icon/hard.png) Problem 3368 First Letter Capitalization: [Python](./python/3368_first_letter_capitalization.py)  
+![hard](./icon/hard.png) Problem 3374 First Letter Capitalization II: [Python](./python/3374_first_letter_capitalization_ii.py)  

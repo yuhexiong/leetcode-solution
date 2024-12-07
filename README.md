@@ -91,6 +91,7 @@ Document my LeetCode solution with comprehensive chinese comments and incorporat
 ![easy](./icon/easy.png) Problem 2879 Display the First Three Rows: [Python](./python/2879_display_the_first_three_rows.py)  
 ![easy](./icon/easy.png) Problem 2884 Modify Columns: [Python](./python/2884_modify_columns.py)  
 ![medium](./icon/medium.png) Problem 2895 Minimum Processing Time: [C++](./c++/2895_MinimumProcessingTime.cpp)  
+![medium](./icon/medium.png) Problem 2988 Manager of the Largest Department: [MySQL](./mysql/2988_ManagerOfTheLargestDepartment.sql)  
 ![medium](./icon/medium.png) Problem 2989 Class Performance: [MySQL](./mysql/2989_ClassPerformance.sql)  
 ![easy](./icon/easy.png) Problem 3005 Count Elements With Maximum Frequency: [C++](./c++/3005_CountElementsWithMaximumFrequency.cpp)  
 ![easy](./icon/easy.png) Problem 3024 Type of Triangle: [C](./c/3024_TypeOfTriangle.c) | [C++](./c++/3024_TypeOfTriangle.cpp) | [Java](./java/3024_TypeOfTriangle.java)  

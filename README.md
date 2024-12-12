@@ -59,6 +59,7 @@ Document my LeetCode solution with comprehensive chinese comments and incorporat
 ![easy](./icon/easy.png) Problem 1422 Maximum Score After Splitting a String: [C++](./c++/1422_MaximumScoreAfterSplittingAString.cpp) | [Python](./python/1422_maximum_score_after_splitting_a_string.py)  
 ![medium](./icon/medium.png) Problem 1468 Calculate Salaries: [MySQL](./mysql/1468_CalculateSalaries.sql)  
 ![hard](./icon/hard.png) Problem 1479 Sales by Day of the Week: [MySQL](./mysql/1479_SalesByDayOfTheWeek.sql)  
+![hard](./icon/hard.png) Problem 1526 Minimum Number of Increments on Subarrays to Form a Target Array: [C++](./c++/1526_MinimumNumberOfIncrementsOnSubarraysToFormATargetArray.cpp)  
 ![medium](./icon/medium.png) Problem 1570 Dot Product of Two Sparse Vectors: [C++](./c++/1570_DotProductOfTwoSparseVectors.cpp)  
 ![hard](./icon/hard.png) Problem 1575 Count All Possible Routes: [Python](./python/1575_count_all_possible_routes.py)  
 ![medium](./icon/medium.png) Problem 1679 Max Number of K-Sum Pairs: [C](./c/1679_MaxNumberOfKSumPairs.c) | [C++](./c++/1679_MaxNumberOfKSumPairs.cpp)  

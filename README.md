@@ -122,7 +122,7 @@ Document my LeetCode solution with comprehensive chinese comments and incorporat
 ![medium](./icon/medium.png) Problem 3308 Find Top Performing Driver: [MySQL](./mysql/3308_FindTopPerformingDriver.sql)  
 ![medium](./icon/medium.png) Problem 3324 Find the Sequence of Strings Appeared on the Screen: [C++](./c++/3324_FindTheSequenceOfStringsAppearedOnTheScreen.cpp) | [Python](./python/3324_find_the_sequence_of_strings_appeared_on_the_screen.py) | [Go](./go/3324_find_the_sequence_of_strings_appeared_on_the_screen.go)  
 ![medium](./icon/medium.png) Problem 3338 Second Highest Salary II: [MySQL](./mysql/3338_SecondHighestSalaryII.sql)  
-![easy](./icon/easy.png) Problem 3340 Check Balanced String: [Go](./go/3340_check_balanced_string.go)  
+![easy](./icon/easy.png) Problem 3340 Check Balanced String: [C++](./c++/3340_CheckBalancedString.cpp) | [Go](./go/3340_check_balanced_string.go)  
 ![hard](./icon/hard.png) Problem 3368 First Letter Capitalization: [Python](./python/3368_first_letter_capitalization.py)  
 ![hard](./icon/hard.png) Problem 3369 Design an Array Statistics Tracker: [Python](./python/3369_design_an_array_statistics_tracker.py)  
 ![hard](./icon/hard.png) Problem 3374 First Letter Capitalization II: [Python](./python/3374_first_letter_capitalization_ii.py)  

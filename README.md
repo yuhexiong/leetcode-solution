@@ -126,4 +126,5 @@ Document my LeetCode solution with comprehensive chinese comments and incorporat
 ![hard](./icon/hard.png) Problem 3368 First Letter Capitalization: [Python](./python/3368_first_letter_capitalization.py)  
 ![hard](./icon/hard.png) Problem 3369 Design an Array Statistics Tracker: [Python](./python/3369_design_an_array_statistics_tracker.py)  
 ![hard](./icon/hard.png) Problem 3374 First Letter Capitalization II: [Python](./python/3374_first_letter_capitalization_ii.py)  
+![easy](./icon/easy.png) Problem 3386 Button with Longest Push Time: [C++](./c++/3386_ButtonWithLongestPushTime.cpp)  
 ![easy](./icon/easy.png) Problem 3415 Find Products with Three Consecutive Digits: [MySQL](./mysql/3415_FindProductsWithThreeConsecutiveDigits.sql)  

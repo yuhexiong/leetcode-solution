@@ -1,4 +1,4 @@
-# LeetCode Solve And Explain
+# LeetCode Solution
 
 Document my LeetCode solution with comprehensive chinese comments and incorporate multiple programming languages.  
 

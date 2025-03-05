@@ -129,3 +129,4 @@ Document my LeetCode solution with comprehensive chinese comments and incorporat
 ![easy](./icon/easy.png) Problem 3386 Button with Longest Push Time: [C++](./c++/3386_ButtonWithLongestPushTime.cpp)  
 ![easy](./icon/easy.png) Problem 3415 Find Products with Three Consecutive Digits: [MySQL](./mysql/3415_FindProductsWithThreeConsecutiveDigits.sql)  
 ![easy](./icon/easy.png) Problem 3456 Find Special Substring of Length K: [C++](./c++/3456_FindSpecialSubstringOfLengthK.cpp)  
+![medium](./icon/medium.png) Problem 3466 Maximum Coin Collection: [C++](./c++/3466_MaximumCoinCollection.cpp)  

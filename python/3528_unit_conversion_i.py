@@ -33,7 +33,7 @@ class Solution:
             base_unit_conv[target] = (base_unit_conv[source]*factor)%MOD
             return
 
-        # 跑迴圈處理每個 conversions
+        # 跑迴圈處理每個 conversion
         for source, target, factor in conversions:
             dfs(source, target, factor)
 

@@ -132,6 +132,7 @@ Document my LeetCode solution with comprehensive chinese comments and incorporat
 ![easy](./icon/easy.png) Problem 3456 Find Special Substring of Length K: [C++](./c++/3456_FindSpecialSubstringOfLengthK.cpp)  
 ![medium](./icon/medium.png) Problem 3466 Maximum Coin Collection: [C++](./c++/3466_MaximumCoinCollection.cpp)  
 ![medium](./icon/medium.png) Problem 3475 DNA Pattern Recognition: [MySQL](./mysql/3475_DNAPatternRecognition.sql)  
+![easy](./icon/easy.png) Problem 3512 Minimum Operations to Make Array Sum Divisible by K: [C++](./c++/3512_MinimumOperationsToMakeArraySumDivisibleByK.cpp)  
 ![easy](./icon/easy.png) Problem 3516 Find Closest Person: [C++](./c++/3516_FindClosestPerson.cpp)  
 ![medium](./icon/medium.png) Problem 3527 Find the Most Common Response: [C++](./c++/3527_FindTheMostCommonResponse.cpp)  
 ![medium](./icon/medium.png) Problem 3528 Unit Conversion I: [C++](./c++/3528_UnitConversionI.cpp) | [Python](./python/3528_unit_conversion_i.py)  

@@ -51,6 +51,7 @@ Document my LeetCode solution with comprehensive chinese comments and incorporat
 ![hard](./icon/hard.png) Problem 899 Orderly Queue: [C++](./c++/0899_OrderlyQueue.cpp) | [Go](./go/0899_orderly_queue.go) | [Java](./java/0899_OrderlyQueue.java)  
 ![easy](./icon/easy.png) Problem 938 Range Sum of BST: [Python](./python/0938_range_sum_of_bst.py)  
 ![medium](./icon/medium.png) Problem 970 Powerful Integers: [Python](./python/0970_powerful_integers.py)  
+![hard](./icon/hard.png) Problem 1063 Number of Valid Subarrays: [Python](./python/1063_number_of_valid_subarrays.py)  
 ![easy](./icon/easy.png) Problem 1119 Remove Vowels from a String: [Python](./python/1119_remove_vowels_from_a_string.py)  
 ![easy](./icon/easy.png) Problem 1137 N-th Tribonacci Number: [C++](./c++/1137_NthTribonacciNumber.cpp) | [Go](./go/1137_nth_tribonacci_number.go)  
 ![medium](./icon/medium.png) Problem 1248 Count Number: [C++](./c++/1248_CountNumberOfNiceSubarrays.cpp) | [Go](./go/1248_count_number_of_nice_subarrays.go) | [Java](./java/1248_CountNumberOfNiceSubarrays.java)  

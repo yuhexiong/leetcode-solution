@@ -54,6 +54,7 @@ Document my LeetCode solution with comprehensive chinese comments and incorporat
 ![hard](./icon/hard.png) Problem 1063 Number of Valid Subarrays: [C++](./c++/1063_NumberOfValidSubarrays.cpp) | [Python](./python/1063_number_of_valid_subarrays.py)  
 ![easy](./icon/easy.png) Problem 1119 Remove Vowels from a String: [Python](./python/1119_remove_vowels_from_a_string.py)  
 ![easy](./icon/easy.png) Problem 1137 N-th Tribonacci Number: [C++](./c++/1137_NthTribonacciNumber.cpp) | [Go](./go/1137_nth_tribonacci_number.go)  
+![easy](./icon/easy.png) Problem 1180 Count Substrings with Only One Distinct Letter: [Python](./python/1180_count_substrings_with_only_one_distinct_letter.py)  
 ![medium](./icon/medium.png) Problem 1248 Count Number: [C++](./c++/1248_CountNumberOfNiceSubarrays.cpp) | [Go](./go/1248_count_number_of_nice_subarrays.go) | [Java](./java/1248_CountNumberOfNiceSubarrays.java)  
 ![hard](./icon/hard.png) Problem 1289 Minimum Falling Path Sum II: [Python](./python/1289_minimum_falling_path_sum_ii.py)  
 ![medium](./icon/medium.png) Problem 1393 Capital Gain/Loss: [MySQL](./mysql/1393_CapitalGainLoss.sql)  

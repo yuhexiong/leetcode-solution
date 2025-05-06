@@ -140,3 +140,4 @@ Document my LeetCode solution with comprehensive chinese comments and incorporat
 ![medium](./icon/medium.png) Problem 3527 Find the Most Common Response: [C++](./c++/3527_FindTheMostCommonResponse.cpp)  
 ![medium](./icon/medium.png) Problem 3528 Unit Conversion I: [C++](./c++/3528_UnitConversionI.cpp) | [Python](./python/3528_unit_conversion_i.py)  
 ![medium](./icon/medium.png) Problem 3535 Unit Conversion II: [C++](./c++/3535_UnitConversionII.cpp) | [Python](./python/3535_unit_conversion_ii.py)  
+![easy](./icon/easy.png) Problem 3536 Maximum Product of Two Digits: [C++](./c++/3536_MaximumProductOfTwoDigits.cpp)  

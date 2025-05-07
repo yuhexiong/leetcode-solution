@@ -76,6 +76,7 @@ Document my LeetCode solution with comprehensive chinese comments and incorporat
 ![medium](./icon/medium.png) Problem 2298 Tasks Count in the Weekend: [MySQL](./mysql/2298_TasksCountInTheWeekend.sql)  
 ![easy](./icon/easy.png) Problem 2331 Evaluate Boolean Binary Tree: [Python](./python/2331_evaluate_boolean_binary_tree.py)  
 ![medium](./icon/medium.png) Problem 2340 Minimum Adjacent Swaps to Make a Valid Array: [Python](./python/2340_minimum_adjacent_swaps_to_make_a_valid_array.py)  
+![medium](./icon/medium.png) Problem 2415 Reverse Odd Levels of Binary Tree: [C++](./c++/2415_ReverseOddLevelsOfBinaryTree.cpp)  
 ![medium](./icon/medium.png) Problem 2487 Remove Nodes From Linked List: [Python](./python/2487_remove_nodes_from_linked_list.py)  
 ![easy](./icon/easy.png) Problem 2582 Pass the Pillow: [Python](./python/2582_pass_the_pillow.py)  
 ![easy](./icon/easy.png) Problem 2620 Counter: [TypeScript](./typescript/2620_Counter.ts)  

@@ -1,6 +1,10 @@
 # LeetCode Solution
 
-Document my LeetCode solution with comprehensive chinese comments and incorporate multiple programming languages.  
+Document my LeetCode solution with comprehensive chinese comments and incorporate multiple programming languages.（整理我的 LeetCode 解法，附上繁體中文詳細註解，並提供多種語言版本）  
+
+![LeetCode Stat](https://leetcard.jacoblin.cool/xiong1998)
+
+Check out my **[LeetCode profile](https://leetcode.com/u/xiong1998/)**（前往我的 LeetCode 頁面）
 
 ## Shortcut To Solutions
 
@@ -142,3 +146,4 @@ Document my LeetCode solution with comprehensive chinese comments and incorporat
 ![medium](./icon/medium.png) Problem 3528 Unit Conversion I: [C++](./c++/3528_UnitConversionI.cpp) | [Python](./python/3528_unit_conversion_i.py)  
 ![medium](./icon/medium.png) Problem 3535 Unit Conversion II: [C++](./c++/3535_UnitConversionII.cpp) | [Python](./python/3535_unit_conversion_ii.py)  
 ![easy](./icon/easy.png) Problem 3536 Maximum Product of Two Digits: [C++](./c++/3536_MaximumProductOfTwoDigits.cpp)  
+![medium](./icon/medium.png) Problem 3540 Minimum Time to Visit All Houses: [Python](./python/3540_minimum_time_to_visit_all_houses.py)  

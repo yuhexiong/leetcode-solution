@@ -85,6 +85,7 @@ Check out my **[LeetCode profile](https://leetcode.com/u/xiong1998/)**（前往�
 ![easy](./icon/easy.png) Problem 2582 Pass the Pillow: [Python](./python/2582_pass_the_pillow.py)  
 ![easy](./icon/easy.png) Problem 2620 Counter: [TypeScript](./typescript/2620_Counter.ts)  
 ![medium](./icon/medium.png) Problem 2627 Debounce: [TypeScript](./typescript/2627_Debounce.ts)  
+![medium](./icon/medium.png) Problem 2632 Curry: [JavaScript](./javascript/2632_Curry.js)  
 ![medium](./icon/medium.png) Problem 2694 Event Emitter: [TypeScript](./typescript/2694_EventEmitter.ts)  
 ![easy](./icon/easy.png) Problem 2703 Return Length of Arguments Passed: [TypeScript](./typescript/2703_ReturnLengthOfArgumentsPassed.ts)  
 ![easy](./icon/easy.png) Problem 2715 Timeout Cancellation: [TypeScript](./typescript/2715_TimeoutCancellation.ts)  

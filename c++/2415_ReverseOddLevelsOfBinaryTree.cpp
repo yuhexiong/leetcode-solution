@@ -16,8 +16,8 @@ struct TreeNode {
 };
 
 class Solution {
-public:
-    void dfs(TreeNode *leftNode, TreeNode *rightNode, int level) {
+    public:
+    void swapNode(TreeNode *leftNode, TreeNode *rightNode, int level) {
         // 如果沒有子節點，則結束搜尋
         if (!leftNode || !rightNode)
             return;
@@ -29,8 +29,8 @@ public:
 
         // 左節點的左節點 和 右節點的右節點 (即外側) 進行搜索交換
         // 左節點的右節點 和 左節點的右節點 (即內側) 進行搜索
-        dfs(leftNode->left, rightNode->right, level + 1);
-        dfs(leftNode->right, rightNode->left, level + 1);
+        swapNode(leftNode->left, rightNode->right, level + 1);
+        swapNode(leftNode->right, rightNode->left, level + 1);
     }
 
     TreeNode *reverseOddLevels(TreeNode *root) {
@@ -39,7 +39,7 @@ public:
             return nullptr;
 
         // 從第一層開始進行搜索
-        dfs(root->left, root->right, 1);
+        swapNode(root->left, root->right, 1);
 
         return root;
     }

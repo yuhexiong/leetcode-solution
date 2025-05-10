@@ -19,12 +19,12 @@ class Solution:
             reverse_map[target].append((source, factor)) 
 
         # 設定 dfs function
-        def dfs(source, target, factor):
+        def process_source_conv(source, target, factor):
             if base_unit_conv[source] is None:
                 # 假如 source 還沒設定，使用 reverse_map 往前設定
                 for prev, prev_factor in reverse_map[source]:
-                    # 前一個節點使用 dfs 尋找並設定
-                    dfs(prev, source, prev_factor)
+                    # 前一個節點使用 process_source_conv 尋找並設定
+                    process_source_conv(prev, source, prev_factor)
                     # 直到 source 確定設定完畢
                     if base_unit_conv[source] is not None:
                         break
@@ -35,7 +35,7 @@ class Solution:
 
         # 跑迴圈處理每個 conversion
         for source, target, factor in conversions:
-            dfs(source, target, factor)
+            process_source_conv(source, target, factor)
 
         # 回傳答案
         return base_unit_conv

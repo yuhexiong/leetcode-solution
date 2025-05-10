@@ -6,7 +6,7 @@ from typing import List
 
 class Solution:
     # 寫一個 dfs 遞迴處理下一個值
-    def dfs(self, nums, curr, visited, res):
+    def determine_next_num(self, nums, curr, visited, res):
     # 如果 curr 已填滿就加入 res 後 return
         if len(curr) == len(nums):
             res.append(curr)
@@ -22,7 +22,7 @@ class Solution:
                 continue
             # 將 visited 改為 True 並繼續找下下一位數
             visited[i] = True
-            self.dfs(nums, curr+[nums[i]], visited, res)
+            self.determine_next_num(nums, curr+[nums[i]], visited, res)
             # 將 visited 改回 False 避免影響下一個可能組合
             visited[i] = False
 
@@ -34,6 +34,6 @@ class Solution:
         # 將數字排序, 方便檢查同一個數字重複的狀況
         nums.sort()
         
-        self.dfs(nums, [], visited, res)
+        self.determine_next_num(nums, [], visited, res)
 
         return res

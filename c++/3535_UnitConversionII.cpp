@@ -7,7 +7,7 @@
 using namespace std;
 
 class Solution {
-public:
+    public:
     static const int MOD = 1e9 + 7;
     vector<int> queryConversions(vector<vector<int>> &conversions,
                                  vector<vector<int>> &queries) {
@@ -26,31 +26,31 @@ public:
         }
 
         // 設定 dfs function
-        function<void(int, int, int)> dfs = [&](int source, int target,
-                                                int factor) {
-            if (baseUnitConv[source] == -1) {
-                // 假如 source 還沒設定，使用 reverseMap 往前設定
-                for (const auto &prev : reverseMap[source]) {
-                    // 前一個節點使用 dfs 尋找並設定
-                    dfs(prev.first, source, prev.second);
-                    // 直到 source 確定設定完畢
-                    if (baseUnitConv[source] != -1) {
-                        break;
+        function<void(int, int, int)> processSourceConv =
+            [&](int source, int target, int factor) {
+                if (baseUnitConv[source] == -1) {
+                    // 假如 source 還沒設定，使用 reverseMap 往前設定
+                    for (const auto &prev : reverseMap[source]) {
+                        // 前一個節點使用 processSourceConv 尋找並設定
+                        processSourceConv(prev.first, source, prev.second);
+                        // 直到 source 確定設定完畢
+                        if (baseUnitConv[source] != -1) {
+                            break;
+                        }
                     }
                 }
-            }
 
-            // 目標單位設定成 來源乘以倍數
-            long long conv = baseUnitConv[source] % MOD;
-            conv = (conv * factor % MOD) % MOD;
-            baseUnitConv[target] = static_cast<int>(conv);
-        };
+                // 目標單位設定成 來源乘以倍數
+                long long conv = baseUnitConv[source] % MOD;
+                conv = (conv * factor % MOD) % MOD;
+                baseUnitConv[target] = static_cast<int>(conv);
+            };
 
         // 跑迴圈處理每個 conversion
         for (const auto &conversion : conversions) {
             int source = conversion[0], target = conversion[1],
                 factor = conversion[2];
-            dfs(source, target, factor);
+            processSourceConv(source, target, factor);
         }
 
         // 前面段與 Unit Conversion I 相同
@@ -68,7 +68,7 @@ public:
         return queryConv;
     }
 
-private:
+    private:
     // 計算模反元素
     int modInverse(long num) {
         int result = 1;

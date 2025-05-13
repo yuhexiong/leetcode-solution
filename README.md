@@ -150,3 +150,4 @@ Check out my **[LeetCode profile](https://leetcode.com/u/xiong1998/)**（前往�
 ![easy](./icon/easy.png) Problem 3536 Maximum Product of Two Digits: [C++](./c++/3536_MaximumProductOfTwoDigits.cpp)  
 ![medium](./icon/medium.png) Problem 3540 Minimum Time to Visit All Houses: [Python](./python/3540_minimum_time_to_visit_all_houses.py)  
 ![easy](./icon/easy.png) Problem 3541 Find Most Frequent Vowel and Consonant: [C++](./c++/3541_FindMostFrequentVowelAndConsonant.cpp)  
+![easy](./icon/easy.png) Problem 3545 Minimum Deletions for At Most K Distinct Characters: [C++](./c++/3545_MinimumDeletionsForAtMostKDistinctCharacters.cpp)  

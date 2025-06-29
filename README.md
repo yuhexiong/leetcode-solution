@@ -152,3 +152,4 @@ Check out my **[LeetCode profile](https://leetcode.com/u/xiong1998/)**（前往�
 ![easy](./icon/easy.png) Problem 3541 Find Most Frequent Vowel and Consonant: [C++](./c++/3541_FindMostFrequentVowelAndConsonant.cpp)  
 ![easy](./icon/easy.png) Problem 3545 Minimum Deletions for At Most K Distinct Characters: [C++](./c++/3545_MinimumDeletionsForAtMostKDistinctCharacters.cpp)  
 ![easy](./icon/easy.png) Problem 3550 Smallest Index With Digit Sum Equal to Index: [C++](./c++/3550_SmallestIndexWithDigitSumEqualToIndex.cpp)  
+![easy](./icon/easy.png) Problem 3581 Count Odd Letters from Number: [Python](./python/3581_count_odd_letters_from_number.py)  

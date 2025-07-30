@@ -154,3 +154,4 @@ Check out my **[LeetCode profile](https://leetcode.com/u/xiong1998/)**（前往�
 ![easy](./icon/easy.png) Problem 3550 Smallest Index With Digit Sum Equal to Index: [C++](./c++/3550_SmallestIndexWithDigitSumEqualToIndex.cpp)  
 ![easy](./icon/easy.png) Problem 3581 Count Odd Letters from Number: [Python](./python/3581_count_odd_letters_from_number.py)  
 ![medium](./icon/medium.png) Problem 3611 Find Overbooked Employees: [MySQL](./mysql/3611_FindOverbookedEmployees.sql)  
+![easy](./icon/easy.png) Problem 3622 Check Divisibility by Digit Sum and Product: [Python](./python/3622_check_divisibility_by_digit_sum_and_product.py)  

@@ -157,4 +157,5 @@ Check out my **[LeetCode profile](https://leetcode.com/u/xiong1998/)**（前往�
 ![easy](./icon/easy.png) Problem 3622 Check Divisibility by Digit Sum and Product: [Python](./python/3622_check_divisibility_by_digit_sum_and_product.py)  
 ![easy](./icon/easy.png) Problem 3667 Sort Array By Absolute Value: [Python](./python/3667_sort_array_by_absolute_value.py)  
 ![easy](./icon/easy.png) Problem 3668 Restore Finishing Order: [Python](./python/3668_restore_finishing_order.py)  
+![medium](./icon/medium.png) Problem 3682 Minimum Index Sum of Common Elements: [Python](./python/3682_minimum_index_sum_of_common_elements.py)  
 ![easy](./icon/easy.png) Problem 3683 Earliest Time to Finish One Task: [Python](./python/3683_earliest_time_to_finish_one_task.py)  

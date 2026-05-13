@@ -160,3 +160,4 @@ Check out my **[LeetCode profile](https://leetcode.com/u/xiong1998/)**（前往�
 ![medium](./icon/medium.png) Problem 3682 Minimum Index Sum of Common Elements: [Python](./python/3682_minimum_index_sum_of_common_elements.py)  
 ![easy](./icon/easy.png) Problem 3683 Earliest Time to Finish One Task: [Python](./python/3683_earliest_time_to_finish_one_task.py)  
 ![easy](./icon/easy.png) Problem 3687 Library Late Fee Calculator: [Python](./python/3687_library_late_fee_calculator.py)  
+![easy](./icon/easy.png) Problem 3894 Traffic Signal Color: [Python](./python/3894_traffic_signal_color.py)  
